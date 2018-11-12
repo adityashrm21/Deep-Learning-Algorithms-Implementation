@@ -5,9 +5,8 @@ import matplotlib.pyplot as plt
 class NeuralNet():
     '''
     This class contains methods/functions for the basic implementation
-    of a neural network from scratch. The network will have an input layer
-    with 3 nodes (excluding the bias unit), one hidden layer with 3 nodes
-    and an output layer with one node.
+    of a neural network from scratch. We use batch gradient descent
+    to update the weights and optimize our weights.
     '''
 
     def __init__(self, W1, b1, W2, b2, X, y, cost_vec):
@@ -121,7 +120,7 @@ def main():
     b2 = np.random.randn(y.shape[1], 1)
     #b2 = np.zeros((y.shape[1], 1))
 
-    epochs = 200000
+    epochs = 250000
     cost_vec = np.zeros((1, epochs))
 
     nn = NeuralNet(W1, b1, W2, b2, X, y, cost_vec)
