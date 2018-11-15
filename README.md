@@ -1,5 +1,5 @@
 # Deep Learning Algorithms Implementation
-This repository contains implementation of different deep learning algorithms in Python. Different library/packages will be used for the implementations like TensorFlow, Keras, PyTorch, etc.
+This repository contains implementation of various deep learning and machine learning algorithms in Python. Different library/packages will be used for the implementations like TensorFlow, Keras, PyTorch, Scikit-Learn, etc.
 
 ## Multilayer Perceptron
 
@@ -16,3 +16,7 @@ Sources:
 - [Denny Britz's tutorial on writing neural networks from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 - [Samay Shamdasani's tutorial on building a neural network](https://enlight.nyc/projects/neural-network/)
 - [Official TensorFlow documentation and tutorials](https://www.tensorflow.org/tutorials/)
+
+## Decision Trees
+
+1. The jupyter notebook [decision_trees_sklearn.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Decision_Trees/decision_trees_sklearn.ipynb) contains an implementation of the decision tree algorithm in Python using scikit-learn. The iris dataset is used to make a prediction using decision trees.
