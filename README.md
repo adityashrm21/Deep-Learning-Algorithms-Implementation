@@ -6,6 +6,7 @@ This repository contains implementation of various deep learning and machine lea
 1. The jupyter notebook [neural_net_from_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Multilayer_Perceptron/neural_net_from_scratch.ipynb) contains the raw fiddling with a basic implementation of a Multilayer Perceptron.
 2. The python script [neural_net_from_scratch.py](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Multilayer_Perceptron/neural_net_from_scratch.py) is a cleaner version of the notebook version.
 3. The jupyter notebook [tensorflow_mlp_regression.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Multilayer_Perceptron/tensorflow_mlp_regression.ipynb) contains a tensorFlow implementation of a Multilayer Perceptron with an example using regression on California housing dataset from the `scikit-learn` library.
+4. The jupyter notebook [tensorflow_mlp_classification.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Multilayer_Perceptron/tensorflow_mlp_classification.ipynb) contains a tensorFlow implementation of a Multilayer Perceptron with an example using classification on the MNIST dataset.
 
 ## Restricted Boltzmann Machine
 
