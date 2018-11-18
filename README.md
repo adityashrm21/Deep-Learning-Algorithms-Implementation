@@ -15,6 +15,7 @@ This repository contains implementation of various deep learning and machine lea
 ## Decision Trees
 
 1. The jupyter notebook [decision_trees_sklearn.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Decision_Trees/decision_trees_sklearn.ipynb) contains an implementation of the decision tree algorithm in Python using scikit-learn. The iris dataset is used to make a prediction using decision trees.
+2. The jupyter notebook [decision_trees_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Decision_Trees/decision_tree_scratch.ipynb) contains an implementation of the decision tree algorithm in Python from scratch using numpy. The [Spotify song attribute](https://www.kaggle.com/geomack/spotifyclassification/home) dataset is used to make a prediction using the decision trees and compared with the scikit-learn implementation.
 
 
 Sources:
