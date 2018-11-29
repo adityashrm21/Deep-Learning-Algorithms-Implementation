@@ -1,5 +1,6 @@
 # (Deep Learning + Machine Learning) Algorithms Implementation
 This repository contains implementation of various deep learning and machine learning algorithms in Python. Different library/packages will be used for the implementations like TensorFlow, Keras, PyTorch, Scikit-Learn, etc.
+_Note_: I am regularly adding new implementations to the repository.
 
 ## Multilayer Perceptron
 
