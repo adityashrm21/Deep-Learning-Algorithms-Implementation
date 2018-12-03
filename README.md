@@ -15,7 +15,11 @@ _Note_: I am regularly adding new implementations to the repository.
 
 ## Linear Regression
 
-1. The jupyter notebook [linear_regression_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Linear_Regression/linear_regression_scratch.ipynb) contains basic implementation of linear regression in python using `numpy` on a randomly generated dataset.
+1. The jupyter notebook [linear_regression_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Linear_Regression/linear_regression_scratch.ipynb) contains basic implementation of linear regression in python using `numpy` on a randomly generated dataset. The optimization is done using full-batch gradient descent.
+
+## Logistic Regression
+
+1. The jupyter notebook [logistic_regression_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Logistic_Regression/logistic_regression_scratch.ipynb) contains basic implementation of logistic regression in python using `numpy` using the iris dataset. Two of the linearly inseparable species are combined together into one category. The optimization is done using full-batch gradient descent.
 
 ## Decision Trees
 
