@@ -11,11 +11,12 @@ _Note_: I am regularly adding new implementations to the repository.
 
 ## Restricted Boltzmann Machine
 
-1. The script [rbm_impl.py](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Restricted_Boltzmann_Machines/rbm_impl.py) contains a basic implementation of a restricted boltzmann machine in `python`.
+1. The script [rbm_impl.py](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Restricted_Boltzmann_Machines/rbm_impl.py) contains a basic implementation of a restricted boltzmann machine in `python` using only `numpy`.
 
 ## Linear Regression
 
 1. The jupyter notebook [linear_regression_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Linear_Regression/linear_regression_scratch.ipynb) contains basic implementation of linear regression in python using `numpy` on a randomly generated dataset. The optimization is done using full-batch gradient descent.
+2. The jupyter notebook [linear_regression_tensorflow.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Linear_Regression/linear_regression_tensorflow.ipynb) contains an implementation of linear regression in python using `TensorFlow` on a randomly generated dataset. The optimization is done using [GradientDescentOptimizer from TensorFlow](https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer).
 
 ## Logistic Regression
 
