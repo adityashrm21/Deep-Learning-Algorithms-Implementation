@@ -1,6 +1,7 @@
 # (Deep Learning + Machine Learning) Algorithms Implementation
 This repository contains implementation of various deep learning and machine learning algorithms in Python. Different library/packages will be used for the implementations like TensorFlow, Keras, PyTorch, Scikit-Learn, etc.
-_Note_: I am regularly adding new implementations to the repository.
+
+_Note_: This repository is under constant development and new implementations are being added regularly.
 
 ## Multilayer Perceptron
 
@@ -21,6 +22,7 @@ _Note_: I am regularly adding new implementations to the repository.
 ## Logistic Regression
 
 1. The jupyter notebook [logistic_regression_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Logistic_Regression/logistic_regression_scratch.ipynb) contains basic implementation of logistic regression in python using `numpy` using the iris dataset. Two of the linearly inseparable species are combined together into one category. The optimization is done using full-batch gradient descent.
+2. The jupyter notebook [logistic_regression_tensorflow.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Logistic_Regression/logistic_regression_tensorflow.ipynb) contains an implementation of logistic regression in python using `TensorFlow` on the iris dataset. The optimization is done using [GradientDescentOptimizer from TensorFlow](https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer).
 
 ## Decision Trees
 
