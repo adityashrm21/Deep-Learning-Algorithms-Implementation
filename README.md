@@ -23,6 +23,7 @@ _Note_: This repository is under constant development and new implementations ar
 
 1. The jupyter notebook [logistic_regression_scratch.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Logistic_Regression/logistic_regression_scratch.ipynb) contains basic implementation of logistic regression in python using `numpy` using the iris dataset. Two of the linearly inseparable species are combined together into one category. The optimization is done using full-batch gradient descent.
 2. The jupyter notebook [logistic_regression_tensorflow.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Logistic_Regression/logistic_regression_tensorflow.ipynb) contains an implementation of logistic regression in python using `TensorFlow` on the iris dataset. The optimization is done using [GradientDescentOptimizer from TensorFlow](https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer).
+3. he jupyter notebook [logistic_regression_keras.ipynb](https://github.com/adityashrm21/Deep-Learning-Algorithms-Implementation/blob/master/Logistic_Regression/logistic_regression_keras.ipynb) contains a Keras implementation of logistic regression on the iris dataset. The optimization is done using Stochastic Gradient Descent.
 
 ## Decision Trees
 
